@@ -11,7 +11,7 @@ VRCQuestTool
 https://booth.pm/ja/items/2436054
 https://github.com/kurotu/VRCQuestTools
 
-本ソフトウェアはMITライセンスのもとで提供 及び 適用がされます。 <br />
+本ソフトウェアはMITライセンスの元で提供及び適用がされます。 <br />
 MITライセンスの全文は上記の https://github.com/TakeharuTsukamoto/SEiN_Niki/blob/main/MIT_LICENSE.txt に記載されています。 <br />
 
 ■このVRChat用アバターでは、VN3ライセンスで配布しています。
