@@ -1,4 +1,5 @@
 # SEiN_Niki
+https://vrchat.com/home/avatar/avtr_3544842d-20c5-44bf-87a9-1baa518491f5 <br />
 
 ■このVRChat用アバターでは、以下の個人利用及び商用利用可能なソフトウェアを利用させて頂いております。
 
