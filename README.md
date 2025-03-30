@@ -2,7 +2,7 @@
 
 ■このプロジェクトでは、以下の個人利用及び商用利用可能なソフトウェアを利用させて頂いております。
 
-UnityHumanoidに一発で通るボーンとウェイトモック素体
+UnityHumanoidに一発で通るボーンとウェイトモック素体 <br />
 https://booth.pm/ja/items/4007364
 
 ■このプロジェクトでは、以下のMITライセンスのソフトウェアを使用しています。
@@ -12,8 +12,8 @@ https://booth.pm/ja/items/2436054
 https://github.com/kurotu/VRCQuestTools
 
 本ソフトウェアはMITライセンスのもとで提供されており、以下のライセンスが適用されます。 <br />
-Assets/MIT_LICENSE.txt
-MITライセンスの全文は上記の MIT_LICENSE.txt に記載されています。
+Assets/MIT_LICENSE.txt  <br />
+MITライセンスの全文は上記の MIT_LICENSE.txt に記載されています。 <br />
 
 ■このプロジェクトでは、VN3ライセンスで配布しています。
 
