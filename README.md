@@ -12,7 +12,7 @@ https://booth.pm/ja/items/2436054
 https://github.com/kurotu/VRCQuestTools
 
 本ソフトウェアはMITライセンスのもとで提供されており、以下のライセンスが適用されます。 <br />
-Assets/MIT_LICENSE.txt  <br />
+MIT_LICENSE.txt  <br />
 MITライセンスの全文は上記の MIT_LICENSE.txt に記載されています。 <br />
 
 ■このプロジェクトでは、VN3ライセンスで配布しています。
