@@ -17,8 +17,8 @@ MITライセンスの全文は上記の MIT_LICENSE.txt に記載されていま
 
 VN3ライセンスの全文は
 各言語に応じて
-Assets/VN3/20250330045120vn3license_ja.pdf
-Assets/VN3/20250330045120vn3license_zh.pdf
-Assets/VN3/20250330045120vn3license_ko.pdf
-Assets/VN3/20250330045120vn3license_en.pdf
+20250330045120vn3license_ja.pdf
+20250330045120vn3license_zh.pdf
+20250330045120vn3license_ko.pdf
+20250330045120vn3license_en.pdf
 にそれぞれ記載されています。
